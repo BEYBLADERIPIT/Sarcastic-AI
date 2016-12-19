@@ -1,5 +1,0 @@
-# Main python file
-
-buttonPress = True
-if buttonPress = True:
-  print "Haha all done"
